@@ -1,0 +1,8 @@
+<html>
+    <body>
+    <svg height="300" width="200">
+  <polygon points="100,10 150,190 80,210" style="fill:green;stroke:purple;stroke-width:1" />
+  <text x="100" y="150" fill="purple">SVG</text><text>
+</svg>
+</body>
+</html>
